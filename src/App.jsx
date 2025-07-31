@@ -4,7 +4,7 @@ import Login from "./pages/Login"
 import ConfirmarCuenta from "./pages/ConfirmarCuenta"
 import Registrar from "./pages/Registrar"
 import OlvidePassword from "./pages/OlvidePassword"
-import NuevoPassword from "./pages/nuevoPassword"
+import NuevoPassword from "./pages/NuevoPassword"
 
 import { AuthProvider } from "./context/AuthProvider"
 import { PacientesProvider } from "./context/PacientesProvider"
